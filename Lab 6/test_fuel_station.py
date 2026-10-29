@@ -9,3 +9,4 @@ def test_pump_allowed():
     assert pump_allowed(30, 1, False) is True
 
 # Write the rest of the test cases so that the code is 90-100% covered.
+#added test cases in the coverage files
